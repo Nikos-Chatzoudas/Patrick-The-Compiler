@@ -1,6 +1,6 @@
 # Patrick The Compiler
 ```bash
-sudo apt install flex bicon gcc -y
+sudo apt install flex bison gcc -y
 ```
 ```bash
 make
